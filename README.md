@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Gokul Krishnan 👋</h1>
 
 <p align="center">
-  <em>Full-stack learner • JavaScript/React/Nodes </em>
+  <em>Full-stack learner • JavaScript/HTML/CSS </em>
 </p>
 
 <p align="center">
