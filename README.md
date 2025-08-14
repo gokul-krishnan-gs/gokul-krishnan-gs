@@ -12,10 +12,10 @@
   <a href="https://instagram.com/your_instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin/">
+  <a href="https://www.linkedin.com/in/gokul-krishnan-gs/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:gokulkrishnangs02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -39,8 +39,4 @@
 <!-- Tools -->
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
 
-### 📫 How to reach me
-- Email: your@email.com  
-- LinkedIn: https://www.linkedin.com/in/your_linkedin/
