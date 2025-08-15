@@ -14,11 +14,11 @@
 
 
 
-🌱 I’m currently learning **DSA with JavaScript**
+- 🌱 I’m currently learning **DSA with JavaScript**
 
-[![Email](https://img.shields.io/badge/Email-gokulkrishnangs02@gmail.com-informational?style=plastic&logo=gmail&logoColor=white)](mailto:gokulkrishnangs02@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-gokulkrishnangs02@gmail.com-informational?style=plastic&logo=gmail&logoColor=white)](mailto:gokulkrishnangs02@gmail.com)
 
-⚡ **love solving coding problems and learning new tricks in JavaScript 🖥️**
+- ⚡ **love solving coding problems and learning new tricks in JavaScript 🖥️**
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-krishnan-gs&show_icons=true&locale=en&layout=compact" alt="gokul-krishnan-gs" /></p>
