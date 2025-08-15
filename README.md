@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Gokul Krishnan</h1>
 <h3 align="center">An Aspiring Full stack developer</h3>
 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - 🌱 I’m currently learning **DSA with JavaScript**
 
 - 📫 **gokulkrishnangs02@gmail.com**
