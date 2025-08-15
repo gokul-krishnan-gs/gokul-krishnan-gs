@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **DSA with JavaScript**
 
-- 📫 **gokulkrishnangs02@gmail.com**
+- [![Email](https://img.shields.io/badge/Email-gokulkrishnangs02@gmail.com-informational?style=plastic&logo=gmail&logoColor=white)](mailto:gokulkrishnangs02@gmail.com)
+
 
 - ⚡ **love solving coding problems and learning new tricks in JavaScript 🖥️**
 
