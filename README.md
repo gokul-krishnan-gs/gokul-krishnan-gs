@@ -1,6 +1,11 @@
-<h1 align="center">Hi , I'm <font color="red">Gokul</font> Krishnan</h1>
+<h1 align="center" style="color:#00C853;">Hi, I'm Gokul Krishnan</h1>
 
-<h3 align="center">An Aspiring Full stack developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=An+Aspiring+Full+Stack+Developer...;Building+Projects...;Coding+Daily..." />
+</p>
+
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css&logoColor=white)
