@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=An+Aspiring+Full+Stack+Developer...;Building+Projects...;Coding+Daily..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=An+Aspiring+Full+Stack+Developer" />
 </p>
 
 
