@@ -54,6 +54,20 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-krishnan-gs&show_icons=true&locale=en&layout=compact" alt="gokul-krishnan-gs" /></p>
 
+---
+
+## 🧩 Open Source Contribution
+
+### First Contributions (Community Project)
+- Contributed to a global beginner-friendly open-source project  
+- Added my name to the official contributors list  
+- Followed the complete Git workflow: fork → branch → commit → pull request  
+- Repository: [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+- Merged PR: [#108326](https://github.com/firstcontributions/first-contributions/pull/108326)
+
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
